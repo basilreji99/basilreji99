@@ -8,17 +8,23 @@
 <p align="center">
   <a href="https://www.basilreji.com"><img src="https://img.shields.io/badge/Portfolio-basilreji.com-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/basilreji-01093718b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://scholar.google.com/citations?user=ky0oDo4AAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://orcid.org/0000-0002-1443-5078"><img src="https://img.shields.io/badge/ORCID-0000--0002--1443--5078-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
   <a href="mailto:basilreji99@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="center">
+  📰 <b>As featured in</b> the <a href="https://www.computer.org/publications/tech-news/insider-membership-news/top-30-reji">IEEE Computer Society — Computing's Top 30</a> profile series
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm an engineer and researcher working at the intersection of **computer vision, robotics, AI, and energy systems**. I hold a Master's in **Robotics & Business Administration** from Northeastern University and a Bachelor's in **Electrical & Electronics Engineering**.
+I'm an engineer and researcher working at the intersection of **computer vision, robotics, AI, and energy systems**. I hold a master's degree in **Robotics with a specialization in Electrical and Computer Engineering** from Northeastern University and a Bachelor's in **Electrical & Electronics Engineering** from Cochin University of Science and Technology.
 
-- 🔬 Currently a **Research Assistant** at Northeastern University (advisor: Bruce Maxwell)
-- 📄 Co-authored **3 international conference publications** and contributed to **5 internal corporate research papers**
+- 🔬 Currently a **Research Assistant** at Northeastern University (advisor: Prof. Bruce Maxwell)
+- 📄 Co-authored **4 international conference publications** and contributed to **5 internal corporate research papers**
 - ⚡ Research spans **solar microcrack detection, battery management systems, autonomous electric mobility, and robotic inspection**
 - 🏭 Industry experience at **FM Global** (research co-op) and **Ernst & Young** (data engineering)
 - 🌐 More about me: [www.basilreji.com](https://www.basilreji.com)
@@ -31,6 +37,7 @@ I'm an engineer and researcher working at the intersection of **computer vision,
 - 🏆 **IAS CMD Award** — IEEE
 - 🥈 **Second Place (Global)** — IEEE Myron Zucker Innovation & Design Contest
 - 🎓 **Best Mentor Award** — IEEE Outreach for Resources in Engineering (ORE)
+- 📝 **Invited Peer Reviewer** — IEEE/ASME Transactions on Mechatronics
 - 🥇 **First Position** — All India VLSI Competition
 - 🌟 International Award from IEEE
 
@@ -98,13 +105,17 @@ I'm an engineer and researcher working at the intersection of **computer vision,
 
 ---
 
-## 📚 Selected Publications
+## 📚 Publications
 
-- **Comparative Evaluation of YOLO Architectures for Microcrack Detection in Solar Panel Electroluminescence Images**
-- **Microcrack Detection in Photovoltaic Modules Using Electroluminescence Imaging and Vision Transformers**
-- **Adaptive Gait for Stability and Efficiency of Quadrupedal Robots on Deformable Surfaces**
-- **Smart Cap for Prevention of Contagious Diseases Using Arduino**
-- **Microcrack Detection on Solar Panels Using Electroluminescence Imaging & Computer Vision**
+**1.** **Basil Reji**, S. Raju, N. S. Nair, J. J. Thandapral, A. George, K. Sani — *"Comparative Evaluation of YOLO Architectures for Microcrack Detection in Solar Panel Electroluminescence Images"* — [GPECOM 2026: 8th Global Power, Energy and Communication Conference](https://gpecom.org/2026/), 3–5 June 2026, Naples, Italy.
+
+**2.** S. Raju, **Basil Reji**, J. J. Thandapral, N. S. Nair, A. A. George, A. Reji — *"Microcrack Detection in Photovoltaic Modules Using Electroluminescence Imaging and Vision Transformers"* — [GPECOM 2026: 8th Global Power, Energy and Communication Conference](https://gpecom.org/2026/), 3–5 June 2026, Naples, Italy.
+
+**3.** **Basil Reji**, B. Maxwell — *"Microcrack Detection on Solar Panels Using Electroluminescence Imaging & Computer Vision"* — 16th IEEE/IAS International Conference on Industry Applications, 14–17 October 2025, Fatec, São Sebastião, Brazil.
+
+**4.** **Basil Reji**, A. Rathesh, et al. — *"Smart Cap for Prevention of Contagious Diseases and Social Distancing Using Arduino"* — 2020 IEEE Bangalore Humanitarian Technology Conference (B-HTC), 8–10 October 2020, Vijayapur, India.
+
+📖 Full list on [Google Scholar](https://scholar.google.com/citations?user=ky0oDo4AAAAJ)
 
 ---
 
@@ -119,11 +130,21 @@ I'm an engineer and researcher working at the intersection of **computer vision,
 
 ---
 
+## 🌐 Community & Service
+
+- 🎙️ **Brand Ambassador** — IEEE
+- ⚡ **R&D Ambassador** — IEEE Power & Energy Society Young Professionals (Kerala Section)
+- 📝 **Peer Reviewer** — IEEE/ASME Transactions on Mechatronics
+
+---
+
 ## 🤝 Let's Connect
 
 <p>
   <a href="https://www.basilreji.com">🌐 Portfolio</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/basilreji-01093718b">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://scholar.google.com/citations?user=ky0oDo4AAAAJ">🎓 Google Scholar</a> &nbsp;·&nbsp;
+  <a href="https://orcid.org/0000-0002-1443-5078">🆔 ORCID</a> &nbsp;·&nbsp;
   <a href="mailto:basilreji99@gmail.com">📧 Email</a>
 </p>
 
